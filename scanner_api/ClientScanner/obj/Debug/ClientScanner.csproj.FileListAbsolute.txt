@@ -1,0 +1,24 @@
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\ClientScanner.dll
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\ClientScanner.pdb
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\System.Net.Http.Formatting.dll
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\System.Web.Http.dll
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\Newtonsoft.Json.dll
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\System.Net.Http.Formatting.xml
+D:\scanner_web\test_examples\scanner_api\ClientScanner\bin\Debug\System.Web.Http.xml
+D:\scanner_web\test_examples\scanner_api\ClientScanner\obj\Debug\ClientScanner.csproj.CoreCompileInputs.cache
+D:\scanner_web\test_examples\scanner_api\ClientScanner\obj\Debug\ClientScanner.csproj.CopyComplete
+D:\scanner_web\test_examples\scanner_api\ClientScanner\obj\Debug\ClientScanner.dll
+D:\scanner_web\test_examples\scanner_api\ClientScanner\obj\Debug\ClientScanner.pdb
+D:\scanner_web\test_examples\scanner_api\ClientScanner\obj\Debug\ClientScanner.csprojAssemblyReference.cache
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\ClientScanner.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\ClientScanner.pdb
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\System.Net.Http.Formatting.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\System.Web.Http.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\Newtonsoft.Json.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\System.Net.Http.Formatting.xml
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\bin\Debug\System.Web.Http.xml
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\obj\Debug\ClientScanner.csprojAssemblyReference.cache
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\obj\Debug\ClientScanner.csproj.CoreCompileInputs.cache
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\obj\Debug\ClientScanner.csproj.CopyComplete
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\obj\Debug\ClientScanner.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ClientScanner\obj\Debug\ClientScanner.pdb

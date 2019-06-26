@@ -1,0 +1,461 @@
+﻿Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = D:\scanner_web\test_examples\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Creating EventLog source HttpApiService in log Application...
+Rolling back assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Restoring event log to previous state for source HttpApiService.
+Uninstalling assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Scanner\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+Removing EventLog source HttpApiService.
+Service HttpApiService is being removed from the system...
+Service HttpApiService was successfully removed from the system.
+Attempt to stop service HttpApiService.
+Installing assembly 'E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 
+Installing service HttpApiService...
+Service HttpApiService has been successfully installed.
+Creating EventLog source HttpApiService in log Application...
+Committing assembly 'E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.InstallLog
+   assemblypath = E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\scanner_win_service\bin\Debug\scanner_win_service.exe
+   logtoconsole = 

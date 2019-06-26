@@ -1,0 +1,82 @@
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\ScannerPageExample.dll.config
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\ScannerPageExample.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\ScannerPageExample.pdb
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\csc.exe
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\csc.exe.config
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\csc.rsp
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\csi.exe
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\csi.rsp
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.AppContext.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.Collections.Immutable.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.IO.FileSystem.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\System.Reflection.Metadata.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\vbc.exe
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\vbc.exe.config
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\vbc.rsp
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\VBCSCompiler.exe
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\roslyn\VBCSCompiler.exe.config
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\ClientScanner.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\System.Net.Http.Formatting.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\Newtonsoft.Json.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\ClientScanner.pdb
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\bin\System.Net.Http.Formatting.xml
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csprojAssemblyReference.cache
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csproj.CoreCompileInputs.cache
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csproj.CopyComplete
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.dll
+D:\scanner_web\test_examples\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.pdb
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\ScannerPageExample.dll.config
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\ScannerPageExample.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\ScannerPageExample.pdb
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\csc.exe
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\csc.exe.config
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\csc.rsp
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\csi.exe
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\csi.rsp
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.AppContext.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.Collections.Immutable.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.IO.FileSystem.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\System.Reflection.Metadata.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\vbc.exe
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\vbc.exe.config
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\vbc.rsp
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\VBCSCompiler.exe
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\roslyn\VBCSCompiler.exe.config
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\ClientScanner.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\System.Net.Http.Formatting.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\Newtonsoft.Json.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\ClientScanner.pdb
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\bin\System.Net.Http.Formatting.xml
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csprojAssemblyReference.cache
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csproj.CoreCompileInputs.cache
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.csproj.CopyComplete
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.dll
+E:\Disk 2 (Mozakra)\2-SPC\1-Archive System\2-Scanner Api\scanner_api\ScannerPageExample\obj\Debug\ScannerPageExample.pdb
